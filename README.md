@@ -131,7 +131,7 @@ text
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Abdulahkenneh/AI-power-data-analyisis-tool.git
+git clone https://github.com/Abdulahkenneh/AI-power-data-analysis-tool.git
 cd AI-power-data-analyisis-tool
 
 # 2. Create virtual environment
